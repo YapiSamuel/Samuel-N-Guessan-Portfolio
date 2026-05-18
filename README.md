@@ -53,3 +53,17 @@ I’m actively building several larger projects that will be added to this portf
 
 📈 My Goal
 To build a strong foundation in SOC operations and grow into a SOC Engineer capable of designing detections, automating workflows, and securing cloud‑based environments.
+
+## 🔥 Featured Standalone Projects
+
+### 🤝 Peer Programming Project  
+Collaborative development project focused on teamwork, Git workflows, and shared problem‑solving.  
+🔗 https://github.com/epack2/Peer_Programming
+
+### 🎮 OOP Final Project — Dynamic Tic‑Tac‑Toe  
+Object‑oriented game with dynamic board sizes and AI opponent.  
+🔗 https://github.com/asmith2133/OOP-Final-Project
+
+### 📅 Java Calendar Application  
+Java console‑based calendar tool with month navigation.  
+🔗 https://github.com/YapiSamuel/Java-Calendar-
