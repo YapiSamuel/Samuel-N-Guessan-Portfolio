@@ -56,14 +56,32 @@ To build a strong foundation in SOC operations and grow into a SOC Engineer capa
 
 ## 🔥 Featured Standalone Projects
 
+### 📝 ExamReady — AI Exam Composer  
+Turns a lecturer's PowerPoint chapters into a print‑ready exam paper, with AI‑drafted questions they can edit. Bilingual English / French.  
+🔗 https://github.com/YapiSamuel/QuizGenerator  
+📄 [Full write‑up](Projects/ExamReady.md)
+
+### 💰 BudgetBuddy — Excel Budget Tracker Generator  
+Guided wizard that generates a working six‑sheet Excel tracker built around your real accounts and categories. Free and open source.  
+🔗 https://github.com/YapiSamuel/BudgetBuddy---Finance-Tracker-App  
+📄 [Full write‑up](Projects/BudgetBuddy.md)
+
+### 🛡️ VIGIL — Pre‑Execution Malware Triage CLI  
+Statically analyzes suspicious scripts and returns an explainable verdict in under 30 seconds — without ever executing the file.  
+🔗 https://github.com/YapiSamuel/VIGIL_2  
+📄 [Full write‑up](Projects/VIGIL.md)
+
 ### 🤝 Peer Programming Project  
 Collaborative development project focused on teamwork, Git workflows, and shared problem‑solving.  
-🔗 https://github.com/epack2/Peer_Programming
+🔗 https://github.com/epack2/Peer_Programming  
+📄 [Full write‑up](Projects/Peer_Programming.md)
 
 ### 🎮 OOP Final Project — Dynamic Tic‑Tac‑Toe  
 Object‑oriented game with dynamic board sizes and AI opponent.  
-🔗 https://github.com/asmith2133/OOP-Final-Project
+🔗 https://github.com/asmith2133/OOP-Final-Project  
+📄 [Full write‑up](Projects/OOP-TicTacToe.md)
 
 ### 📅 Java Calendar Application  
 Java console‑based calendar tool with month navigation.  
-🔗 https://github.com/YapiSamuel/Java-Calendar-
+🔗 https://github.com/YapiSamuel/Java-Calendar-  
+📄 [Full write‑up](Projects/Java-Calendar.md)
