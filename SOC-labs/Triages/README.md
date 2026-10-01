@@ -34,7 +34,7 @@ All endpoints run Sysmon and forward logs to Splunk via Universal Forwarders. GP
 
 | # | Write-up | MITRE ATT&CK | Status |
 |---|---|---|---|
-| 01 | [Kerberoasting — Attack, Detection & Remediation](./https://github.com/YapiSamuel/Samuel-N-Guessan-Portfolio/blob/main/SOC-labs/Triages/Kerberoasting-writeup.md) | T1558.003 | ✅ Complete |
+| 01 | [Kerberoasting — Attack, Detection & Remediation](https://github.com/YapiSamuel/Samuel-N-Guessan-Portfolio/blob/main/SOC-labs/Triages/Kerberoasting-writeup.md) | T1558.003 | ✅ Complete |
 | 02 | AS-REP Roasting | T1558.004 | 🔄 Planned |
 | 03 | Pass-the-Hash / Lateral Movement | T1550.002 | 🔄 Planned |
 | 04 | LLMNR/NBT-NS Poisoning | T1557.001 | 🔄 Planned |
