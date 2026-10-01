@@ -70,4 +70,4 @@ Each write-up follows a consistent structure:
 
 ## Related
 
-- Main SOC Lab build & architecture: 
+- Main SOC Lab build & architecture: https://github.com/YapiSamuel/Samuel-N-Guessan-Portfolio/tree/main/SOC-labs/SOC-Lab-Env-Setup
