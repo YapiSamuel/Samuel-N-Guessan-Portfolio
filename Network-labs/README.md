@@ -1,8 +1,8 @@
 # Network Security Labs
 
-This folder contains hands-on network security exercises focused on segmentation, firewall configuration, and traffic analysis. These labs demonstrate understanding of network defense and secure architecture.
+This folder will contain hands-on network security exercises focused on segmentation, firewall configuration, and traffic analysis. These labs will demonstrate understanding of network defense and secure architecture.
 
-## Topics Covered
+## Topics Covering
 - Network segmentation and VLAN configuration
 - Firewall rules and access control lists (ACLs)
 - Packet capture and traffic analysis
