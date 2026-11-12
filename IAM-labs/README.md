@@ -1,8 +1,8 @@
 # Identity & Access Management (IAM) Labs
 
-This folder contains labs focused on Microsoft Entra ID (Azure AD), identity lifecycle management, and access control. These exercises demonstrate practical experience with authentication, authorization, and identity security.
+This folder focus on Microsoft Entra ID (Azure AD), identity lifecycle management, and access control. The Labs will demonstrate practical experience with authentication, authorization, and identity security.
 
-## Topics Covered
+## Topics Covering
 - Entra ID user and group management
 - RBAC role assignments and least privilege
 - MFA configuration and Conditional Access policies
